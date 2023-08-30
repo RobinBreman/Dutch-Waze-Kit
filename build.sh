@@ -1,1 +1,1 @@
-zip -r dist.zip . -x ".*" -x "__MACOSX" -x "build.sh"
+zip -r dist/dist.zip . -x ".*" -x "__MACOSX" -x "build.sh"
